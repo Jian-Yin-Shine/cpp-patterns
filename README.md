@@ -12,6 +12,7 @@ C++ 设计模式
 - [Factory Method](https://www.bilibili.com/video/av70917243)
 - [Abstract Factory](https://www.bilibili.com/video/av73861644)
 - [Prototype](https://www.bilibili.com/video/av73980270)
+- [Builder](https://www.bilibili.com/video/av75387210)
 
 
 
