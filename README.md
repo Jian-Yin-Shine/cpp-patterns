@@ -13,6 +13,7 @@ C++ 设计模式
 - [Abstract Factory](https://www.bilibili.com/video/av73861644)
 - [Prototype](https://www.bilibili.com/video/av73980270)
 - [Builder](https://www.bilibili.com/video/av75387210)
+- [Singleton](https://www.bilibili.com/video/av76080029)
 
 
 
