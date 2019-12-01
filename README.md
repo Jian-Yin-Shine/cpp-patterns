@@ -14,6 +14,8 @@ C++ 设计模式
 - [Prototype](https://www.bilibili.com/video/av73980270)
 - [Builder](https://www.bilibili.com/video/av75387210)
 - [Singleton](https://www.bilibili.com/video/av76080029)
+- [Flyweight](https://www.bilibili.com/video/av76230752)
+- [Facade, Proxy, Adapter, Mediator](https://www.bilibili.com/video/av77617222)
 
 
 
