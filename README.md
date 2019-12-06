@@ -16,6 +16,10 @@ C++ 设计模式
 - [Singleton](https://www.bilibili.com/video/av76080029)
 - [Flyweight](https://www.bilibili.com/video/av76230752)
 - [Facade, Proxy, Adapter, Mediator](https://www.bilibili.com/video/av77617222)
+- [State, Memento](https://www.bilibili.com/video/av77861216/)
+- [Comosite, Iterator, ChainOfResposibility](https://www.bilibili.com/video/av77863617/)
+- [Command, Visitor](https://www.bilibili.com/video/av77867441/)
+- [Interpreter](https://www.bilibili.com/video/av77870578/)
 
 
 
